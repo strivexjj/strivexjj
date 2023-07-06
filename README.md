@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Cheng Wenjie.
+- 👋 Hi
 - 👀 I’m interested in Deep Learning.
 - 🌱 I’m currently learning Recommendation System, Reinforcement Learning.
 - 💞️ I’m looking to collaborate on ...
